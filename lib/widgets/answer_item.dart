@@ -62,20 +62,6 @@ class AnswerItem extends StatelessWidget {
             ),
           ),
         ),
-        // child: ElevatedButton(
-        //   style: ElevatedButton.styleFrom(
-        //     backgroundColor: Colors.blue,
-        //     foregroundColor: Colors.white,
-        //     shape: RoundedRectangleBorder(
-        //       borderRadius: BorderRadius.circular(5),
-        //     ),
-        //   ),
-        //   onPressed: () {
-        //     answer.onPress();
-        //     chanegeState();
-        //   },
-        //   child: Text(answer.title),
-        // ),
       ),
     );
   }

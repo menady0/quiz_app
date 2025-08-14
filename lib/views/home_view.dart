@@ -26,12 +26,6 @@ class _HomeViewState extends State<HomeView> {
         0,
         0,
       ),
-      // appBar: AppBar(
-      //   title: const Text('Home'),
-      //   backgroundColor: Colors.blue,
-      //   foregroundColor: Colors.white,
-      //   centerTitle: true,
-      // ),
       body: SafeArea(
         child: !showScore
             ? Padding(
